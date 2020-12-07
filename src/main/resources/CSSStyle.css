@@ -1,0 +1,16 @@
+/*
+ * AUTHOR:  Fernando Orellana
+ * DATE:    Mon, Nov 30th, 2020
+ * PROJECT: Production Project
+ * FILE:    CSSStyle.css
+ *
+ * Creates the stylesheet for the Production GUI.
+ */
+
+root {
+  -fx-background-color: beige;
+}
+
+button {
+  -fx-border-color: black;
+}
